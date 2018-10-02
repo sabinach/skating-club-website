@@ -1,0 +1,31 @@
+<!--#include file="officer_list.shtml" -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<link rel="stylesheet" type="text/css" href="skating.css" />
+	<title>MIT Figure Skating Club</title>
+	<style type="text/css">
+		#primary {
+			width: <!--#echo var="primary_width" -->px;
+		}
+		#secondary {
+			width: <!--#echo var="secondary_width" -->px;
+		}
+	</style>
+</head>
+
+<body> 
+<div id="page">
+
+<div id="banner">
+	<a href="index.html">MIT Figure Skating Club</a>
+</div>
+
+<div id="topMenu">
+	<!--#include file="topmenu.shtml" -->
+</div>
+
+<div id="main">

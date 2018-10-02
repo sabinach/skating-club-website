@@ -1,0 +1,46 @@
+<!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="0" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1> Intercollegiate Competitons 2016-2017</h1>
+The MIT Intercollegiate Competition has ended! You can find results as a <a href="competitions/2017/Collegiate POINTS.pdf">pdf</a> or <a href="competitions/2017/Collegiate POINTS.xls">spreadsheet</a>. There are pictures at <a href="https://www.facebook.com/MitFigureSkatingClub/photos/?tab=album&album_id=1412771592128930">our Facebook page</a>.
+
+
+The full collegiate competition schedule for this year is:<br/>
+
+<style>
+  table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  }
+
+</style>
+
+<table>
+  <tr>
+    <th> Location </th>
+    <th> Date </th>
+    <th> Entry Deadline </th>
+  </tr>
+  <tr>
+    <td>MIT</td>
+    <td>Feb 4-5</td>
+    <td>Jan 7</td>
+  </tr>
+  <tr>
+    <td>Liberty University</td>
+    <td>March 4-5</td>
+    <td>Feb 4</td>
+  </tr>
+  <tr>
+    <td>University of Delaware</td>
+    <td>March 18-19</td>
+    <td>Feb 18</td>
+  </tr>
+</table><br/>
+
+</div>
+<!--#include file="footer.shtml" -->
+

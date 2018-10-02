@@ -1,0 +1,22 @@
+<!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="0" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>2010 Intercollegiate Competition</h1>
+<p>MIT and <a href="http://people.bu.edu/bufsc/">BU</a> co-hosted a USFS Intercollegiate Competition at Johnson Ice Rink.</p>
+
+<p>Overall, BU placed first as a tean with 113 total points, followed by University of Delaware in second with 106 points, and Dartmouth in third with 88 points.</p>
+
+<h1>Information</h1>
+<ul>
+<li><a href="competition/2010/results.htm">Results</a></li>
+<li><a href="competition/2010/schedule.doc">Schedule</a> (click to download)</li>
+<li><a href="competition/2010/team-points.pdf">School Point Totals</a></li>
+<li><a href="competition/2010/pics">Pictures</a></li>
+</div>
+
+<div id="secondary">
+</div>
+
+<!--#include file="footer.shtml" -->

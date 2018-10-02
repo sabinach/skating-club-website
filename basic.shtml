@@ -1,0 +1,9 @@
+<!--#set var="primary_width" value="400" -->
+<!--#set var="secondary_width" value="300" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary"></div>
+
+<div id="secondary"></div>
+
+<!--#include file="footer.shtml" -->

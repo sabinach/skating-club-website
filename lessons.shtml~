@@ -1,0 +1,109 @@
+<!--#set var="primary_width" value="550" -->
+<!--#set var="secondary_width" value="300" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>Lessons</h1>
+<p>The MIT FSC offers group lessons in freestyle and ice dance and can help people find a private coach. MIT FSC classes cannot count for PE credit. However, DAPER offers some PE classes.</p>
+
+<ul>
+<li><a href="#group">Group Lessons</a></li>
+<!--li><a href="#team">Team Lessons</a></li-->
+<li><a href="#private">Private Lessons</a></li>
+<li><a href="#pe">PE Lessons</a></li>
+</ul>
+
+<a name="group"></a>
+<h1>Group Lessons</h1>
+<p>The level of the course indicates that elements on these tests and similar elements will be covered in these classes. If you aren't sure where you fit in, come on any Saturday morning and we'll help you figure it out!
+
+<h2>Total Beginner</h2>
+<dl class="bold-terms">
+<dt>Beginner Class: </dt><dd>Saturday 10:00am - 10:45am</dd>
+<p>* If you have never skated before - plan for at least 15 minutes to rent your skates and learn how to lace them so you can skate safely and without pain. Wear thin socks. Athletic socks are too heavy.</p>
+</dl>
+
+<h2>Basic Skills</h2>
+<dl class="bold-terms">
+<dt>Basic Skills Adult 1-2:</dt><dd>Saturday 9:30am - 10:00am; <u>Alex</u></dd>
+<dt>Basic Skills Adult 3-4:</dt><dd>Saturday 9:30am - 10:00am; <u>Susan</u></dd>
+</dl>
+
+<h2>Freestyle</h2>
+<dl class="bold-terms">
+<dt>Basic Skills Freestyle and USFS PrePreliminary:</dt> <dd>Saturday 9:30am - 10:00am; <u>Esther</u></dd>
+<dt>USFS Preliminary - PreJuvenile:</dt> <dd>Saturday 9:30am - 10:00am; <u>Kristin</u></dd>
+<dt>Advanced Freestyle:</dt> <dd>Sunday 12:00pm - 12:30pm; <u>Liz</u></dd>
+</dl>
+
+<h2>Ice Dance</h2>
+<dl class="bold-terms">
+<dt>Beginning Dance:</dt> <dd>Saturday 10:15am - 10:45am; <u>Alex</u></dd>
+<dt>Basic Skills Dance 1-6:</dt> <dd>Saturday 10:15am - 10:45am; <u>Susan</u></dd>
+<dt>USFS PreBronze-Bronze Dance:</dt> <dd>Saturday 10:15am - 10:45am; <u>Esther</u></dd>
+<dt>USFS Silver-Gold Dance:</dt> <dd>Sunday 10:30am - 11:00am; <u>Libby</u>
+</dl>
+
+<h2>Moves in the Field</h2>
+<dl class="bold-terms">
+<dt>Moves in the Field:</dt> <dd>Sunday 12:00pm - 12:30pm; <u>Sean</u></dd>
+</dl>
+
+<!--
+<h2>Group Performance</h2>
+<dl class="bold-terms">
+<dt>Theater on Ice:</dt> <dd>Sunday 11:15am - 12:00pm; <u>Aubrey</u></dd>
+<dt>Opening number practice:</dt> <dd>Saturday 11:15am - 12:00pm; <u>Diane</u>, <u>Trish</u></dd><p>
+</dl> -->
+
+<!--a name="team"></a><h1>Team Lessons</h1>
+<dl class="bold-terms">
+<dt>Theater On Ice:</dt> <dd>Sunday 11:15am - 12:00pm; TBD</dd>
+</dl-->
+
+<a name="private"></a><h1>Private Lessons</h1>
+<p>These <a href="coaches.shtml">coaches</a> currently offer private lessons.</p>
+<p>We offer subsidized private lessons to students. If you are interested, please review the <a href="https://drive.google.com/file/d/0B4uAlnEG9uiySzZKenJCTjR3MW8/view">rules and procedures</a> and <a href="https://docs.google.com/forms/d/1lQhRPmf6eg4_QgxPUW5PlfXNMf01ICXRc92UD2U-hmY/viewform">register here</a>.
+
+<p>If you are a private coach interested in giving lessons, please email us at skating-officers@mit.edu.</p>
+
+
+<a name="pe"></a><h1>PE Lessons</h1>
+<p>While skating with the MIT FSC unfortunately does not count for PE credit, there are basic PE skating classes taught by the Athletics Department in the 2nd quarter, IAP, and 3rd quarter. There is also a figure skating class (prerequisite is the basic skating PE class) offered during IAP. Check the <a href="http://www.mitpe.com">MIT Department of Athletics</a> website for more details.</p></div>
+
+<div id="secondary">
+<h1>Lesson Schedule</h1>
+Check the <a href="https://www.google.com/calendar/embed?src=ovljctopmtsge0l65h5lgfceh0%40group.calendar.google.com&ctz=America/New_York">Calendar</a>
+<h2>Workshops</h2>
+Not scheduled yet!
+<!--<b>Ice Flow w/ Elin Schran:</b>
+<ul><li><u>Sunday Oct 25th</u>; 11:15am-12:15pm</li>
+<li><u>Sunday Nov 1st</u>; 11:15am-12:15pm</li>
+<li><u>Sunday Nov 15th</u>; 11:15am-12:15pm</li>
+<li><u>Sunday Nov 22nd</u>; 11:15am-12:15pm</li>
+</ul>
+-->
+<!--
+These are the dates for all group lessons and team lessons during the 2013-2014 year, <i>not</i> the PE class.
+
+<h2>Saturday Lesson Dates</h2>
+<ul>
+<li>Oct 26</li>
+<li>Nov 2, 9, 16, 23</li>
+<li>Dec 7, 14, 21?</li>
+<li>Jan 11, 18, 25</li>
+<li>Feb 1, 8, 15, 22</li>
+<li>Mar 1, 8, 15, 22</li>
+</ul>
+
+<h2>Sunday Lesson Dates</h2>
+<ul>
+<li>Oct 27</li>
+<li>Nov 3, 10, 17, 24</li>
+<li>Dec 8, 15, 22?</li>
+<li>Jan 12, 19, 26</li>
+<li>Feb 2, 9, 16, 23</li>
+<li>Mar 2, 9</li>
+</ul></div>
+-->
+<!--#include file="footer.shtml" -->

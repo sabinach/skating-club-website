@@ -1,0 +1,95 @@
+<!--#set var="skatingclub" value="skatingclub[at]mit.edu" -->
+<!--#set var="skating-officers" value="skating-officers[at]mit.edu" -->
+<!--#set var="skatingteam" value="skatingteam[at]mit.edu" -->
+
+<!--#set var="president[name]" value="Diane Zhou" -->
+<!--#set var="president[email]" value="none" -->
+<!--#set var="president" value="${president[name]} (${president[email]})" -->
+
+<!--#set var="vice_pres[name]" value="Liz Martin, Ananya Nandy" -->
+<!--#set var="vice_pres[email]" value="none" -->
+<!--#set var="vice_pres" value="${vice_pres[name]} (${vice_pres[email]})" -->
+
+<!--#set var="treasurer[name]" value="Jennifer Wang" -->
+<!--#set var="treasurer[email]" value="none" -->
+<!--#set var="treasurer" value="${treasurer[name]} (${treasurer[email]})" -->
+
+<!--#set var="asst_treas[name]" value="Jose Lebron" -->
+<!--#set var="asst_treas[email]" value="none" -->
+<!--#set var="asst_treas" value="${asst_treas[name]} (${asst_treas[email]})" -->
+
+<!--#set var="college_team[name]" value="Ananya Nandy" -->
+<!--#set var="college_team[email]" value="none" -->
+<!--#set var="college_team" value="${college_team[name]} (${college_team[email]})" -->
+
+<!--#set var="secretary[name]" value="Liz Martin" -->
+<!--#set var="secretary[email]" value="none" -->
+<!--#set var="secretary" value="${secretary[name]} (${secretary[email]})" -->
+
+<!--#set var="memb_sec[name]" value="Daniel Vignon" -->
+<!--#set var="memb_sec[email]" value="none" -->
+<!--#set var="memb_sec" value="${memb_sec[name]}" -->
+
+<!--#set var="boutique[name]" value="Milka Piszczek, Maureen Fountain-Quinn" -->
+<!--#set var="boutique[email]" value="none" -->
+<!--#set var="boutique" value="${boutique[name]} (${boutique[email]})" -->
+
+<!--#set var="edu_chair[name]" value="Bonny Kellerman, Esther Horwich" -->
+<!--#set var="edu_chair[email]" value="none" -->
+<!--#set var="edu_chair" value="${edu_chair[name]} (${edu_chair[email]})" -->
+
+<!--#set var="exhib_chair[name]" value="Shawn Pan" -->
+<!--#set var="exhib_chair[email]" value="none" -->
+<!--#set var="exhib_chair" value="${exhib_chair[name]} (${exhib_chair[email]})" -->
+
+<!<!--#set var="exhib_comm[name]" value="Shawn Pan" -->
+<!<!--#set var="exhib_comm[email]" value="none" -->
+<!<!--#set var="exhib_comm" value="${exhib_comm[name]} (${exhib_comm[email]})" -->
+
+<!--#set var="comp_comm[name]" value="Sarah Don" -->
+<!--#set var="comp_comm[email]" value="none" -->
+<!--#set var="comp_comm" value="${comp_comm[name]} (${comp_comm[email]})" -->
+
+<!<!--#set var="adult_team[name]" value="Sarah Don" -->
+<!<!--#set var="adult_team[email]" value="none" -->
+<!<!--#set var="adult_team" value="${adult_team[name]} (${adult_team[email]})" -->
+
+<!--#set var="special_events[name]" value="Priyanka Chatterjee" -->
+<!--#set var="special_events[email]" value="none" -->
+<!--#set var="special_events" value="${special_events[name]} (${special_events[email]})" -->
+
+<!--#set var="toi[name]" value="Sarah Don, Aviva Siegel" -->
+<!--#set var="toi[email]" value="none" -->
+<!--#set var="toi" value="${toi[name]} (${toi[email]})" -->
+
+<!--#set var="test_chair[name]" value="Susan Scott" -->
+<!--#set var="test_chair[email]" value="none" -->
+<!--#set var="test_chair" value="${test_chair[name]}" -->
+
+<!--#set var="test_comm[name]" value="Susan Scott" -->
+<!--#set var="test_comm[email]" value="none" -->
+<!--#set var="test_comm" value="${test_comm[name]} (${test_comm[email]})" -->
+
+<!--#set var="webmaster[name]" value="Taylor Sutton" -->
+<!--#set var="webmaster[email]" value="taylors" -->
+<!--#set var="webmaster" value="${webmaster[name]} (${webmaster[email]})" -->
+
+<!<!--#set var="asst_web[name]" value="Yee Ling Gan, Peitong Duan" -->
+<!<!--#set var="asst_web[email]" value="none" -->
+<!<!--#set var="asst_web" value="${asst_web[name]} (${asst_web[email]})" -->
+
+<!--#set var="publicity[name]" value="Sasha Churikova" -->
+<!--#set var="publicity[email]" value="none" -->
+<!--#set var="publicity" value="${publicity[name]} (${publicity[email]})" -->
+
+<!--#set var="librarian[name]" value="Shawn Pan" -->
+<!--#set var="librarian[email]" value="none" -->
+<!--#set var="librarian" value="${librarian[name]}" -->
+
+<!--#set var="rentals[name]" value="Noa Rensing, Jose Lebron" -->
+<!--#set var="rentals[email]" value="none" -->
+<!--#set var="rentals" value="${rentals[name]} (${rentals[email]})" -->
+
+<!--#set var="at_large[name]" value="Jingzhi An, Jon Lu" -->
+<!--#set var="at_large[email]" value="none" -->
+<!--#set var="at_large" value="${at_large[name]} (${at_large[email]})" -->

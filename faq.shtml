@@ -1,0 +1,79 @@
+<!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="0" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary"><h1>Frequently Asked Questions</h1>
+
+<h2>What should I wear when skating?</h2>
+<ul>
+<li>Figure skates must be worn during all club sessions (hockey skates are not allowed).</li>
+<li>Gloves or mittens are recommended. You want to protect your hands from the cold and from scratches in case you fall.</li>
+<li>Wear clothes that do not hinder your movement. Stretchy materials, such as spandex are advisable. Non-stretch material, for example, jeans, are not ideal.</li>
+<li>If you are a beginner, or if you're trying new moves, you should be prepared to fall and possibly get wet. You might want to bring a change of clothes (unless you don’t mind walking around campus with a wet butt!)</li>
+<li>The MIT rink can be pretty cold. Dress in layers so you can adjust your temperature as you warm up during your practice.</li>
+</ul>
+
+<h2>What is proper skating etiquette?</h2>
+<ul>
+<li>Be alert! Given that skating can be a high speed sport, you should keep an eye out for the people around you at all times. You don't need to stop skating every time somebody is near you -- just be alert!</li>
+<li>It's a common courtesy during figure skating sessions to give the "right of way" in certain situations:
+	<ul>
+	<li>Skaters in a private lesson (these skaters are paying for their coaching and do not want to waste this time stopping for other skaters).</li>
+	<li>Skaters practicing a program to music (this person should be easy to identify).</li>
+    <li>Check out this <a href="docs/rink_layout.pdf">plot of the rink</a> of where skaters usually place jumps and spins when they are practicing!</li>
+	</ul>
+</li>
+<li>Skating is fun and socializing is encouraged. However, please keep conversation at the boards so that you are not in the way of practicing skaters.</li>
+<li>The use of headphones / earbuds on the ice is highly discouraged. It is important to be able to hear your surroundings in addition to seeing your surroundings on the ice. Headphone use has been a source of accidents in the past.</li>
+<li><a href="docs/stretching_warmup.pdf">Warm-up and stretch</a> before you skate to prevent injuries!</li>
+</ul>
+
+<h2>What are some other "Rules of the Road"?</h2>
+<ul>
+<li>The different skating disciplines usually follow set patterns. These can be learned easily and will also allow you to share the ice with other skaters safely.</li>
+<li>If you choose to skate with a portable music player, keep the volume low enough and your alertness level high enough to be aware of what other skaters are doing.</li>
+<li>If your jumps leave holes, please fill them in before you get off the ice.</li>
+<li>If you run your program or dance pattern with music, you should wear an orange vest so that people know that you are running a program and can get out of your way easily.</li>
+</ul>
+
+<h2>Do I absolutely have to have figure skates on?</h2>
+<p>YES! Figure skates must be worn at all Club sessions -- hockey skates are not allowed. If you do not own figure skates you need to rent, buy or borrow a pair before getting on the ice. During general skating hours, hockey skates are allowed on the ice.</p>
+
+<h2>I think I want to buy skates - any advice?</h2>
+<p>The first half of How to Buy and Care for Figure Skates (<a href="docs/skates-buying.html">skates-buying</a>) can give you a lot of great advice about buying figure skates.</p>
+
+<h2>What about buying a pair of used skates?</h2>
+<p>If you're new to skating, buying used skates might be a good option. Check out the many local skate shops that sell used skates.</p>
+
+<h2>What do I HAVE TO KNOW about caring for my skates?</h2>
+<p>The second half of How to Buy and Care for Figure Skates (<a href="docs/skates-buying.html">skates-buying</a>) is a MUST READ for anyone who is new to their skates. Your skates (and wallet) will thank you for it.</p>
+
+<h2>How can I tell if my skates are dull?</h2>
+<p>Try (carefully) rubbing your thumbnail against the edge of your blade. If you don't get any nail shavings, your blade is probably too dull.</p>
+
+<h2>My skates are dull. How do I sharpen them?</h2>
+<p>There are several skate shops around Boston that will sharpen your blades. Avoid taking your skates to skate shops that mostly deal with hockey skates. These shops specialize in figure skates. Call ahead to make an appointment. Club members may be willing to take you or your skates to the shop when they go. </p>
+
+<h2>My skate blades look rusty. What should I do?</h2>
+<p>First, you should read How to Buy and Care for Figure Skates (<a href="docs/skates-buying.html">skates-buying</a>) so they never get rusty again. Then use some commercial rust remover, like CLR, and a clean cloth to remove as much of the damage as possible.</p>
+
+<h2>Any extra advice about skates?</h2>
+<p>The document How to Buy and Care for Figure Skates (<a href="docs/skates-buying.html">skates-buying</a>) is a very good general guide and contains lots of useful information.</p>
+
+<h2>What's the difference between plastic and cloth blade guards?</h2>
+<p>Plastic guards are used on your blades when walking from the bench to the ice. They keep harmful grit and dirt particles away from your blades. Never walk on the ice wearing plastic guards! Cloth guards are used for storing your blades. They wick away the moisture from the blades as they warm to room temperature. Never store your skates in their plastic guards, because it will cause the blades to rust.</p>
+
+<h2>Where can I get one of those MITFSC jackets I see people wearing?</h2>
+<p>Talk to the boutique chair, <!--#echo var="boutique" -->.</p>
+
+<h2>How can I join USFS?</h2>
+<p> For an annual fee of $70, club members can join the USFS. This membership entitles you to receive the SKATING magazine, partake in USFS tests, and compete in USFS competitions representing MIT. Contact the membership secretary, <!--#echo var="memb_sec" -->, for details.</p>
+
+<h2>Do I need a USFS Rulebook?</h2>
+<p>The Club owns a copy of the rulebook, so you do not need one per se. Although, it can be very convenient to have one of your own if you plan on testing. The rulebook contains patterns for the Moves in the Field and Compulsory Ice Dances, and program requirements for freestyle tests and competitions. You should check the requirements for tests and competitions as they may change from year to year.</p>
+
+</div>
+
+<div id="secondary"></div>
+
+<!--#include file="footer.shtml" -->

@@ -1,0 +1,17 @@
+<!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="000" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>Library Holdings</h1>
+<p>Members in good standing may borrow items from the Library. Please ask the Librarian, <!--#echo var="librarian" -->, if you have any questions.</p>
+
+<ul>
+<li><a href="docs/library-list.html">List of Videos and Books</a></li>
+<li><a href="docs/library-alpha.html">List of Videos and Books (Alphabetical)</a></li>
+<li><a href="docs/library-music.html">List of Music</a></li>
+</div>
+
+<div id="secondary"></div>
+
+<!--#include file="footer.shtml" -->

@@ -1,0 +1,38 @@
+<!--#set var="primary_width" value="400" -->
+<!--#set var="secondary_width" value="450" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<!--
+ <h1>Club Emails</h1>
+
+<dl>
+<dt><b>skating-club[at]mit.edu</b></dt><dd><i>This list serves all club members and skating enthusiasts; join to receive club announcements</i></dd>
+</dl>
+ -->
+
+<h1>Contact Us</h1>
+<dt><b><!--#echo var="skating-officers" --></b></dt><dd><i>This list serves all club officers; contact us here to receive more information about MIT FSC and any of its events or activities</i></dd>
+</dl>
+
+<p>You can also follow MIT Figure Skating Club on <a href="http ://www.facebook.com/MitFigureSkatingClub/">Facebook!</a></p>
+
+</div>
+
+<div id="secondary"><h1>List Help</h1>
+
+<p>You can access <a href="http://groups.mit.edu/webmoira/list/skating-club/">Moira</a> and add/remove yourself from the skating-club mailing list. You will need certificates to do this. If you don't, please ask an officer with an MIT account.</p>
+
+<p>If you do not have an Athena account, contact skating-officers[at]mit.edu.</p>
+
+<!--
+<p>Alternatively, you can blanche yourself onto a list.</p>
+
+<p>To add yourself to the skating-club list, at an Athena prompt type:
+<div class="code">athena% blanche skating-club -add username</div></p>
+
+<p>To remove yourself from the skating-club mailing list, at an athena prompt type:
+<div class="code">athena% blanche skating-club -delete username</div></p>
+-->
+
+<!--#include file="footer.shtml" -->

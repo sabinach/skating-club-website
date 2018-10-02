@@ -1,0 +1,35 @@
+<div class="nav block">
+<h1>Schedule</h1>
+<ul>
+<li><a href="ice-time.shtml">Ice Time</a></li>
+<li><a href="https://www.google.com/calendar/embed?src=ovljctopmtsge0l65h5lgfceh0%40group.calendar.google.com&ctz=America/New_York">Calendar</a></li>
+<li><a href="test-info.shtml">Test Information</a></li>
+<li><a href="lessons.shtml">Lessons</a></li>
+    <ul>
+    <li><a href="lessons.shtml#group">Group</a></li>
+    <!--li><a href="lessons.shtml#team">Team</a></li-->
+    <li><a href="lessons.shtml#private">Private</a></li>
+    <li><a href="lessons.shtml#pe">PE</a></li>
+    </ul>
+</li>
+</ul>
+</div>
+
+<div class="nav block">
+<h1>Resources</h1>
+<ul> 
+<li><a href="join.shtml">How to Join</a></li>
+<li><a href="mailing-lists.shtml">Mailing Lists</a></li>
+<li><a href="officers.shtml">Officers</a> 
+    <ul> 
+    <li><a href="officer-duties.shtml">Duties</a></li>
+    </ul>
+</li>
+<li><a href="coaches.shtml">Coaches</a></li>
+<li><a href="library.shtml">Library</a></li>
+<li><a href="contact-us.shtml">Contact Us</a></li>
+<li><a href="faq.shtml">FAQ</a></li>
+<li><a href="docs/2014-2015IntercollegiateTechnicalRulebook.v4.pdf">Intercollegiate Rulebook</a></li>
+<li><a href="docs/MIT-skating-tips.pdf">Skating Tips from JoJo Starbuck</a></li>
+</ul>
+</div>

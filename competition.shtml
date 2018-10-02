@@ -1,0 +1,54 @@
+<!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="0" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1> Intercollegiate Competitons 2018-2019</h1>
+<!--
+The MIT Intercollegiate Competition has ended! You can find results as a <a href="competition/2017/Collegiate POINTS.pdf">pdf</a> or <a href="competition/2017/Collegiate POINTS.xls">spreadsheet</a>. There are pictures at <a href="https://www.facebook.com/MitFigureSkatingClub/photos/?tab=album&album_id=1412771592128930">our Facebook page</a>.
+ -->
+
+
+The intercollegiate competition schedule is:<br/>
+
+<style>
+  table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  }
+
+</style>
+
+<table>
+  <tr>
+    <th> Location </th>
+    <th> Date </th>
+    <th> Entry Deadline </th>
+  </tr>
+  <tr>
+    <td>New York University (NYU)</td>
+    <td>Nov. 3-4, 2018</td>
+    <td>Oct. 3, 2018</td>
+  </tr>
+  <tr>
+    <td>Massachusetts Institute of Technology (MIT)</td>
+    <td>Feb. 1-3, 2019</td>
+    <td>Jan. 1, 2019</td>
+  </tr>
+  <tr>
+    <td>Carnegie Mellon University (CMU)</td>
+    <td>March 2-3, 2019</td>
+    <td>Jan. 30, 2019</td>
+  </tr>
+</table><br/>
+
+You can read the <a href="https://fs12.formsite.com/USFSAIT/images/2018-19_Intercollegiate_Handbook.pdf">Intercollegiate Rulebook</a> for general competition announcements and technical rules, or see more information on the <a href="http://www.usfsa.org/programs?id=83979">USFSA website.</a><br/>
+
+<p>
+Last year’s home competition was a blast! You can see the results from the MIT Intercollegiate Competition as a <a href="competition/2017/Collegiate POINTS.pdf">pdf</a> or <a href="competition/2017/Collegiate POINTS.xls">spreadsheet</a>. There are pictures on <a href="https://www.facebook.com/MitFigureSkatingClub/photos/?tab=album&album_id=1412771592128930">our Facebook page</a>.
+</p>
+
+</div>
+<!--#include file="footer.shtml" -->
+

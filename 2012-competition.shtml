@@ -1,0 +1,19 @@
+<!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="0" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>2012 Intercollegiate Competition</h1>
+<p>The MIT FSC hosted a USFS Intercollegiate Competition at Johnson Ice Rink.
+
+<dl class="bold-terms">
+<ul>
+<dt>Date:</dt><dd>Saturday, February 18, 2012 - Sunday, February 19, 2012</dd>
+<dt>Location:<dt><dd>Johnson Athletics Center Ice Arena, MIT, 120 Vassar St. Cambridge, MA 02139</dd>
+</ul>
+<p>Event information can be found  <a href="docs/2012-mit-competition-flyer.pdf">here</a>.</p>
+
+<div id="secondary">
+</div>
+
+<!--#include file="footer.shtml" -->

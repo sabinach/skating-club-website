@@ -1,0 +1,20 @@
+<!--#set var="primary_width" value="550" -->
+<!--#set var="secondary_width" value="300" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>Testing Info</h1>
+<p>Testing sessions are ways for you to track your progress and become eligible to compete in official competitions. USFS has multiple test levels in the different disciplines of figure skating: Basic Skills, Moves in the Field, Freestyle, Pairs, Ice Dance, Synchronized Skating. Each test requires the skater(s) to perform a set of required moves to be judged by a panel of USFS judges. These tests can be used to measure your progress and determine your appropiate competition level. For more information about beginning tests, check out the <a href="docs/test-guide2015.pdf">Testing Guide</a> compiled by Diana Cheng.</p>
+<p>Only members of the MIT Figure Skating Club can test at our test sessions. For more information, please contact skating-officers[at]mit.edu.</p>
+</div>
+
+<div id="secondary"><h1>Upcoming Tests</h1>
+We have a test session coming up on <b>February 26</b>, starting 9:30am, for tests through Pre-Silver in Ice Dance and through Novice for Moves in the Field and Freestyle.
+
+<h1>Forms</h1>
+<ul>
+<li><a href="docs/MIT.Skating.Test.Application.pdf">Test Session Form</a></li>
+</ul>
+</div>
+
+<!--#include file="footer.shtml" -->

@@ -1,0 +1,60 @@
+<!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="0" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>Coaches - Private Instruction</h1>
+<b>Please note, the list is not yet updated for the 2016-2017 season. Below is the list of coaches from the 2015-2016 season.</b>
+<table>
+<tr>	<td width="15%"><b><u>Name</u></b></td>
+	<td width="15%"><b><u>Contact Info</u></b></td>
+        <td width="25%"><b><u>Field of Instruction</u></b></td>
+	<td width="10%"><b><u>Rates</u></b></td>
+</tr>
+<tr>	<td>Kristin Gallas</td>
+	<td>kgallas@hotmail.com<br />(617) 312-8763</td>
+	<td>Freestyle (Basic and Advanced), Moves, Choreography, Figures</td>
+	<td>$25/half hr</td>
+</tr>
+		<tr>	<td>Walter (Wally) Lang </td>
+	<td>langwal527@gmail.com</td>
+	<td>Ice Dancing</td>
+	<td></td>
+</tr>
+<tr>    <td>Liz Martin</td>
+	<td>eem@mit.edu</td>
+	<td>Moves, Freestyle</td>
+	<td>$25/hr</td>
+</tr>
+<tr>    <td>Cailee Smith</td>
+        <td>caileeasmith@gmail.com</td>
+        <td>Ice Dancing, Moves, Choreography</td>
+        <td>$30/half hr</td>
+</tr>
+<tr>    <td>Elizabeth (Libby) Zhang</td>
+        <td>ezhang94@mit.edu</td>
+        <td>Ice Dancing, Moves, Freestyle</td>
+        <td>$25/hr</td>
+</tr>
+<tr>    <td>Elin Schran</td>
+        <td>elinschran@gmail.com<br />(617) 407-4805</td>
+        <td>Jumps, Spins, Choreography, Movement, Moves in the Field</td>
+        <td>$75/hr</td>
+</tr>
+</table>
+
+<h2>Information for Club Members</h2>
+<ul>
+<li>Contact one of the coaches above for lesson availabilty
+<li>Checks given to coaches for payment must be made out to <b>"MIT Figure Skating Club" </b>
+<li>Subsized lessons are available to MIT student club memebers subject to the following <a href="https://drive.google.com/file/d/0B4uAlnEG9uiySzZKenJCTjR3MW8/view">rules and procedures</a>
+<li><a href="https://docs.google.com/forms/d/1lQhRPmf6eg4_QgxPUW5PlfXNMf01ICXRc92UD2U-hmY/viewform">Register here</a> if you would like to sign up for subsidized lessons.
+</ul>
+<h2>Information for Coaches</h2>
+<ul>
+<li>Coaches should use this <a href="docs/Instructor_payment_form.doc">instructor payment form</a> to submit checks</li>
+<li><a href="http://studentlife.mit.edu/sao/finance/forms">Official information and forms for coaches</a></li>
+</ul>
+<div id="secondary"></div>
+
+<!--#include file="footer.shtml" -->

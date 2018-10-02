@@ -1,0 +1,61 @@
+<!--#set var="primary_width" value="550" -->
+<!--#set var="secondary_width" value="300" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+  <h1>Announcements</h1>
+  Check back soon for more information about the 2018-2019 skating season. The rink is slated to open in mid-October! Join the skating-club <a href="http://web.mit.edu/skatingclub/www/join.shtml">mailing list</a> for the most up-to-date club information. 
+  </br></br>
+  See the latest club news on our <a href="https://www.facebook.com/pg/MitFigureSkatingClub/posts/">Facebook</a> page.
+
+  <!--
+  You are invited to <b>MIT Figure Skating Club's Spring Exhibition — FAITH!</b> The exciting ice show will feature unforgettable group performances, dance numbers, solo routines, and more!
+  <p><b>FREE ADMISSION</b> to the MIT Community and the general public!
+  <ul>
+      <li><u>Date</u>: Sunday, March 4th, 2018</li>
+      <li><u>Time</u>: 5:30-7:30PM</li>
+      <li><u>Location</u>: Johnson Ice Rink</li>
+  </ul>
+  <p>Check out more details on our <a href="https://www.facebook.com/events/1829172917115577/">Facebook Event.</a>
+  <p><img src="img/exhibition-spring-2018.png" />
+  -->
+  
+<h1>Welcome</h1>
+<p>Our club provides an enjoyable, sociable, supportive, and safe environment for figure skaters of all levels. <b>Beginners are always welcome!</b>  Membership is open to all members of the MIT community.</p>
+
+<p>The Club offers:
+<ul>
+<li>Ice time for freestyle, ice dance, moves-in-the-field, pairs, and synchronized skating</li>
+<li>Weekly groups lessons for members
+	<ul>
+	<li>Figure Skating (Freestyle) and Basic Skills</li>
+	<li>Ice Dancing</li>
+	<li>Edge Class/Synchronized Skating</li>
+	</ul>
+<li>Private Instruction</li>
+<li>Annual skating show</li>
+<li>Intercollegiate Competitions</li>
+<li>Social events open to the MIT community</li>
+</ul>
+</p>
+
+<p>The MIT rink is located in the Johnson Athletic Center.</p>
+
+<p>***Please note that only club members are allowed to practice during MIT Figure Skating Club practice sessions.  However, you are always welcome to come, watch and see if you would like to join the club.</p>
+</div>
+
+<div id="secondary">
+<div class="center"><img src="img/skate.jpg" /></div>
+
+<h1>Club Ice Time</h1>
+<ul>
+  <li><b>Monday: </b> 8:00am - 9:30am and 3:15pm - 4:15pm </li>
+  <li><b>Tuesday to Friday: </b> 8:00am - 9:30am</li>
+  <li><b>Saturday:</b> 7:30am - 10:00am for freestyle and 10:15am - 12:00pm for ice dance</li>
+  <li><b>Sunday:</b> 9:15am - 11:00am for ice dance and 11:15am - 12:45pm for freestyle</li>
+</ul>
+  
+Our rink time and other events are always posted in our <a href="https://www.google.com/calendar/embed?src=ovljctopmtsge0l65h5lgfceh0%40group.calendar.google.com&ctz=America/New_York">Google calendar</a>!
+</div>
+
+<!--#include file="footer.shtml" -->

@@ -1,0 +1,55 @@
+<!--#set var="primary_width" value="550" --> 
+<!--#set var="secondary_width" value="300" --> 
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>How to Join</h1>
+
+<p>New members must:
+</p><ul>
+<li>Join the Figure Skating roster and complete a release waiver* on <a href="https://www.dosportseasy.com/mitclubsports/">DoSportsEasy</a>.</li>
+<li>Complete a <a href="https://goo.gl/forms/fjhFVznkfxNIVYgf2">membership form</a>.</li>
+<li>Read and understand the <a href="http://web.mit.edu/skatingclub/www/docs/hazing_law.html">Massachusetts Hazing Laws</a>.</li>
+<li>Pay either online on <a href="http://mit.universitytickets.com/w/event.aspx?id=729&cid=35&p=1">MIT's ticket website</a> or bring cash or check to one of our weekend meetings:
+    <ul>
+        <li>$10 for MIT students
+        <li>$20 for MIT affiliates
+    </ul>
+<li>[Optional] In addition, you may also choose to sign up for <a href="http://www.usfigureskating.org/story?id=83916">US Figure Skating Membership (USFS)</a>. You must be a USFS member, however, if you want to participate in competitions, tests, and synchronized skating. Becoming an USFS member will also subscribe you to the SKATING magazine. You may pay online on <a href="http://mit.universitytickets.com/w/event.aspx?id=729&cid=35&p=1">MIT's ticket website</a> or bring cash or check to one of our weekend meetings:
+	<ul>
+        <li>$70 for four years for a collegiate membership.
+        <li>$30 for one year for a first-time member.
+        <li>$60 plus $24 per person past the first for a one year family membership.
+	</ul>
+</li>
+<li>[Optional] Join the MIT Figure Skating Club mailing list! You can access <a href="http://groups.mit.edu/webmoira/list/skating-club">Moira</a> and add/remove yourself from the skating-club mailing list. You will need certificates to do this. If you don't, please ask an officer with an MIT account. If you do not have an Athena account, contact skating-officers[at]mit.edu</li>
+</ul><p></p>
+<p>*  Anyone who comes out on the ice must complete a club sports waiver, regardless of club membership. 
+<p>** Dues include lessons for both students and non-students. Please attend only one lesson level per class offered. (In other words, do not attend both the intermediate and advanced lessons for freestyle skating.)</p>
+</div>
+
+<div id="secondary">
+<h1>Who Can Join</h1>
+
+<p>To join the Club, you must satisfy the following:
+<ul>
+<li>Be an MIT affiliate, and fall under one of the following categories:
+	<ul>
+	<li>Undergrad/grad student</li>
+	<li>Alumni</li>
+	<li>Faculty and staff</li>
+	<li>Spouse of any of the above</li>
+	</ul>
+<li>Have a valid full-year or 6-month athletic card (for students, gym membership is included in tution).</li>
+</ul>
+</p>
+
+<h2>Note About Cross-Registered Students</h2>
+<p>Students from other universities may join a Club Sport, including the MIT Figure Skating Club, only during the terms while they are cross-registered at MIT.<p>
+
+<h2>Note About Children</h2>
+<p>The MIT Figure Skating Club is an MIT Club Sport. The <a href="http://clubsports.mit.edu/">Club Sports Council</a> (CSC) dictates the membership rules for all MIT Club Sports. Unfortunately, the CSC has decided that children of the MIT community are not eligible to participate in club sports. Therefore, we are no longer able to accept the children of MIT students, alumni, faculty and staff as members of our club.</p>
+
+<p>Children covered by a current MIT family athletic card are welcome to skate during <a href="http://web.mit.edu/athletics/www/skate.htm">general skating hours</a>.</p></div>
+
+<!--#include file="footer.shtml" -->

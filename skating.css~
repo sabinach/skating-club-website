@@ -1,0 +1,177 @@
+/* fonts */
+@font-face {
+	font-family: "Century Gothic";
+	src: url("font/gothic.ttf");
+}
+
+
+/* general */
+body {
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	background-color: #FFFFFF; 
+	color: #000000;
+}
+#page {
+	width:900px;
+	margin:10px auto;
+	padding: 0px;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 32px;
+	color: #044c79;
+	letter-spacing: 2px;
+	border-bottom:1px solid #044c79;
+}
+h1.first {
+	margin-top:0px;
+	padding-top:0px;
+}
+h2 {
+	font-family: Arial, sans-serif;
+	font-size: 22px;
+	color: #044c79;
+}
+a:link, a:visited, a:hover {
+	color:#077fcb;
+}
+
+
+/* special elements */
+.bold-terms dt {
+	font-weight:bold;
+	float:left;
+	padding-right:5px;
+}
+.bold-terms dd {
+	padding-bottom:5px;
+}
+.code {
+	font-family:"courier", "monospace";
+	padding-left: 20px;
+	margin-top: -10px;
+}
+td {
+	vertical-align:top;
+	padding:0px 0px 15px 0px;
+}
+
+
+/* blocks */
+div.block {
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #077fcb;
+	padding:5px;
+}
+div.block > h1 {
+	margin:0px;
+	font-size: 18px;
+}
+div.block ul {
+	list-style-type:none;
+	margin:5px 0px;
+	padding-left:15px;
+}
+div.block li {
+	margin-bottom:3px;
+	text-indent:-10px; 
+	margin-left: 10px;
+}
+
+
+/* top banner */
+#banner {
+	width:890px;
+	margin:0px;
+	-moz-border-radius-topleft:10px;
+	-moz-border-radius-topright:10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	border: 1px solid #077fcb;
+	padding:5px;
+
+	font-family: "Century Gothic", sans-serif;
+	font-size: 60px;
+	letter-spacing:2px;
+
+	background:url(img/little-beaver.png) no-repeat 730px 15px;
+	/*background:url(http://web.mit.edu/skatingclub/www/Home_files/skate.jpg) no-repeat right center;*/
+	overflow:hidden;
+}
+#banner a, #banner a:link, #banner a:visited, #banner a:hover {
+	color:#000000;
+	text-decoration:none;
+}
+#topMenu {
+	text-align:center;
+	width:890px;
+	margin:0px;
+	-moz-border-radius-bottomleft:10px;
+	-moz-border-radius-bottomright:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	border: 1px solid #077fcb;
+	border-top-width:0px;
+	padding:5px;
+	background:#077fcb;
+	color:#FFFFFF;
+}
+#topMenu a {
+	margin:25px;
+	color:#FFFFFF;
+}
+
+
+/* side menu */
+#sideMenu {
+	float:left;
+	margin-right:20px;
+	width:160px;
+}
+.nav {
+	margin-top:20px;
+}
+
+
+/* main block */
+#main {
+	margin-top:20px;
+	float:right;
+	width:720px;
+	line-height:22px;
+}
+#main h1 {
+	line-height:32px;
+}
+#main h1:first-child {
+	margin-top:0px;
+	padding-top:0px;
+}
+
+
+/* primary block */
+#primary {
+	float:left;
+}
+
+/* secondary block */
+#secondary {
+	float:right;
+}
+
+
+/* bottom block */
+#bottom {
+	clear:both;
+}
+
+.center {
+	width:100%;
+	text-align:center;
+}
+
+.last {
+	margin-bottom:20px;
+}

@@ -1,0 +1,30 @@
+<!--#set var="primary_width" value="350" -->
+<!--#set var="secondary_width" value="350" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>Mailing Lists</h1>
+
+<dl>
+<dt><b>skating-club[at]mit.edu</b></dt><dd><i>all club members and skating enthusiasts</i></dd>
+</dl>
+<dt><b><!--#echo var="skating-officers" --></b></dt><dd><i>the club administrators</i></dd>
+</dl>
+
+<p>The skating-club[at]mit.edu  mailing list is used to send out various club announcements and to publicize events that might be of interest to skating fans.</p>
+</div>
+
+<div id="secondary"><h1>List Help</h1>
+<p>You can access <a href="http://webmoira.mit.edu/">WebMoira</a>, and add/remove yourself from the skating-club mailing list. You will need certificates to do this. If you don't, please ask an officer with an MIT account.</p>
+
+<p>If you do not have an Athena account, contact the webmaster, <!--#echo var="webmaster" -->.</p>
+
+<p>Alternatively, you can blanche yourself onto a list.</p>
+
+<p>To add yourself to the skating-club list, at an Athena prompt type:
+<div class="code">athena% blanche skating-club -add username</div></p>
+
+<p>To remove yourself from the skating-club mailing list, at an athena prompt type:
+<div class="code">athena% blanche skating-club -delete username</div></p>
+
+<!--#include file="footer.shtml" -->

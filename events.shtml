@@ -1,0 +1,74 @@
+ <!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="0" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>Events</h1>
+    <ul>
+        <li><a href="#competitions">Intercollegiate Competitions</a></li>
+        <li><a href="#exhibitions">Winter and Spring Exhibitions</a></li>
+        <!--li><a href="#team">Team Lessons</a></li-->
+        <li><a href="#skating-in-socks">Skating-in-Socks Social</a></li>
+        <li><a href="#jojo-starbuck">Workshop with JoJo Starbuck</a></li>
+    </ul>
+
+
+<a name="competitions"></a>
+<h1>Intercollegiate Competitions</h1>
+<p>Students have the opportunity to compete at USFS Intercollegiate Competitions each year as part of the MIT FSC. More information, including a list of this year's competitions, can be found <a href="competition.shtml">here</a>.</p>
+<p>Every few years, the MIT FSC hosts an intercollegiate competition at Johnson Ice Rink. Check out some of our past competitions:</p>
+<ul>
+<li><a href="https://www.facebook.com/pg/MitFigureSkatingClub/photos/?tab=album&album_id=1412771592128930">2017 MIT Intercollegiate Competition</a></li>
+<li><a href="2015-competition.shtml">2015 MIT Intercollegiate Competition</a></li>
+<li><a href="2012-competition.shtml">2012 MIT Intercollegiate Competition</a></li>
+<li><a href="2010-competition.shtml">2010 MIT Intercollegiate Competition</a></li>
+</ul>
+
+<a name="exhibitions"></a>
+<h1>Winter and Spring Exhibitions</h1>
+<p>The FSC hosts an exhibition in each winter and spring for the MIT community, friends and family. All club members are invited to participate in the opening group number. Many of our skaters also perform indiviual programs, group ice dances, and Theater on Ice. You can find videos from the our Spring 2017 Exhibition: Born to Make History, on our <a href="https://www.youtube.com/playlist?list=PLtND_SuMHRDhK8qsbo382UyoXd770G0FI">YouTube playlist</a>.</p>
+<p>Our exhibitions for the 2017-2018 Season will be held on:
+<ul>
+    <li>Winter: Saturday, December 9, 2017</li>
+    <li>Spring: Sunday, March 04, 2018</li>
+</ul>
+<div class="center"><img src="img/exhibition-spring-2017.jpeg" height="80%" width="80%" /></div>
+<p></p>
+
+<a name="skating-in-socks"></a>
+<h1>Skating-in-Socks Social</h1>
+<p> FSC has a pre-rink opening celebration to introduce new members to the club and simulate some figure skating moves off the ice before the rink opens. Thanks to everyone who came this year!</p>
+<div class="center"><img src="img/skating-in-socks-2017-2.JPG" height="80%" width="80%" /></div>
+<div class="center"><img src="img/skating-in-socks-2017-1.JPG" height="80%" width="80%" /></div>
+<!--
+<div><img src="img/skating-in-socks-2017-1.jpg" height="80%" width="80%" /></div>
+<div><img src="img/skating-in-socks-2017-2.jpg" height="80%" width="80%" /></div>
+ -->
+<p></p>
+
+<a name="jojo-starbuck"></a>
+<h1>Workshop with JoJo Starbuck!</h1>
+<p>JoJo Starbuck (3-time US National Pairs Skating Champions and twice Olympic competitor) led a skating workshop with the MITFSC members. Thank you JoJo for inspiring skaters of all levels!</p>
+<div class="center"><img src="img/jojo_starbuck_2017_1.jpg" height="80%" width="80%" /></div>
+<div class="center"><img src="img/jojo_starbuck_2017_2.JPG" height="80%" width="80%" /></div>
+<!--
+ <div><img src="img/skating-in-socks-2017-1.jpg" height="80%" width="80%" /></div>
+ <div><img src="img/skating-in-socks-2017-2.jpg" height="80%" width="80%" /></div>
+ -->
+<p></p>
+
+<!--
+<h1>Skating Workshops</h1>
+<p> The FSC tries to hold a variety of skating workshops for our club members throughout the season:
+<ul>
+<li>Cool Workout with <a href="jojostarbuck.com">JoJo Starbuck</a> (<i>check out her skating <a href="docs/MIT-skating-tips.pdf">tips</a>!</i>) 
+<li>IceFlow with Elin Schran
+</ul>
+ -->
+
+</ul>
+</div>
+
+<div id="secondary"></div>
+
+<!--#include file="footer.shtml" -->

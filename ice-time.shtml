@@ -1,0 +1,24 @@
+<!--#set var="primary_width" value="850" -->
+<!--#set var="secondary_width" value="0" -->
+<!--#include file="header.shtml" -->
+
+<div id="primary">
+<h1>Club Ice Time</h1>
+<ul>
+  <li><b>Monday: </b> 8:00am - 9:30am and 3:15pm - 4:15pm </li>
+  <li><b>Tuesday to Friday: </b> 8:00am - 9:30am </li>
+  <li><b>Saturday:</b> 7:30am - 10:00am for freestyle and 10:15am - 12:00pm for ice dance</li>
+  <li><b>Sunday:</b> 9:15am - 11:00am for ice dance and 11:15am - 12:45pm for freestyle</li>
+</ul>
+  
+Our rink time and other events are always posted in our <a href="https://www.google.com/calendar/embed?src=ovljctopmtsge0l65h5lgfceh0%40group.calendar.google.com&ctz=America/New_York">Google calendar</a>!
+
+<h1>Lesson Schedules and Skates</h1>
+<p>Lesson schedules can be found under the <a href="lessons.shtml">Lessons</a> page.</p>
+<p>If you need figure skates, there are a number of options to check out on our <a href="resources.shtml">Club Resources</a> page.</p>
+<div class="center"><img src="img/club_2013.jpg" /></div>
+</div>
+
+<div id="secondary"></div>
+
+<!--#include file="footer.shtml" -->
