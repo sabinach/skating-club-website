@@ -2,27 +2,27 @@
 <!--#set var="skating-officers" value="skating-officers[at]mit.edu" -->
 <!--#set var="skatingteam" value="skatingteam[at]mit.edu" -->
 
-<!--#set var="president[name]" value="Ellen Shea" -->
+<!--#set var="president[name]" value="Juliana Drozd" -->
 <!--#set var="president[email]" value="none" -->
 <!--#set var="president" value="${president[name]} (${president[email]})" -->
 
-<!--#set var="vice_pres[name]" value="Ananya Nandy, Olivia Yao" -->
+<!--#set var="vice_pres[name]" value="Diane Zhou" -->
 <!--#set var="vice_pres[email]" value="none" -->
 <!--#set var="vice_pres" value="${vice_pres[name]} (${vice_pres[email]})" -->
 
-<!--#set var="treasurer[name]" value="Maya Sankar" -->
+<!--#set var="treasurer[name]" value="Lori Won" -->
 <!--#set var="treasurer[email]" value="none" -->
 <!--#set var="treasurer" value="${treasurer[name]} (${treasurer[email]})" -->
 
-<!--#set var="asst_treas[name]" value="Mia LaRocca" -->
+<!--#set var="asst_treas[name]" value="Maya Sankar" -->
 <!--#set var="asst_treas[email]" value="none" -->
 <!--#set var="asst_treas" value="${asst_treas[name]} (${asst_treas[email]})" -->
 
-<!--#set var="college_team[name]" value="Stef Ren" -->
+<!--#set var="college_team[name]" value="Andrea Lin, Diane Zhou" -->
 <!--#set var="college_team[email]" value="none" -->
 <!--#set var="college_team" value="${college_team[name]} (${college_team[email]})" -->
 
-<!--#set var="secretary[name]" value="Liz Martin" -->
+<!--#set var="secretary[name]" value="Diane Zhou" -->
 <!--#set var="secretary[email]" value="none" -->
 <!--#set var="secretary" value="${secretary[name]} (${secretary[email]})" -->
 
@@ -34,7 +34,7 @@
 <!--#set var="boutique[email]" value="none" -->
 <!--#set var="boutique" value="${boutique[name]} (${boutique[email]})" -->
 
-<!--#set var="kleenex[name]" value="Noa Rensing, Andy Huang" -->
+<!--#set var="kleenex[name]" value="Noa Rensing" -->
 <!--#set var="kleenex[email]" value="none" -->
 <!--#set var="kleenex" value="${kleenex[name]} (${kleenex[email]})" -->
 
@@ -54,19 +54,19 @@
 <!<!--#set var="exhib_comm[email]" value="none" -->
 <!<!--#set var="exhib_comm" value="${exhib_comm[name]} (${exhib_comm[email]})" -->
 
-<!--#set var="comp_comm[name]" value="Sarah Don" -->
+<!--#set var="comp_comm[name]" value="Sarah Don, Susan Scott, Diane Zhou, Juliana Drozd, Flora Su, Andy Huang, Shawn Pan" -->
 <!--#set var="comp_comm[email]" value="none" -->
 <!--#set var="comp_comm" value="${comp_comm[name]} (${comp_comm[email]})" -->
 
-<!--#set var="adult_team[name]" value="Sarah Don" -->
-<!--#set var="adult_team[email]" value="none" -->
-<!--#set var="adult_team" value="${adult_team[name]} (${adult_team[email]})" -->
+<!<!--#set var="adult_team[name]" value="Sarah Don" -->
+<!<!--#set var="adult_team[email]" value="none" -->
+<!<!--#set var="adult_team" value="${adult_team[name]} (${adult_team[email]})" -->
 
-<!--#set var="workshop_coord[name]" value="Maureen Fountain-Quinn" -->
-<!--#set var="workshop_coord[email]" value="none" -->
-<!--#set var="workshop_coord" value="${workshop_coord[name]} (${workshop_coord[email]})" -->
+<!<!--#set var="workshop_coord[name]" value="Maureen Fountain-Quinn" -->
+<!<!--#set var="workshop_coord[email]" value="none" -->
+<!<!--#set var="workshop_coord" value="${workshop_coord[name]} (${workshop_coord[email]})" -->
 
-<!--#set var="special_events[name]" value="Diane Zhou, Diane Brancazio" -->
+<!--#set var="special_events[name]" value="Diane Zhou, Crystal Chang" -->
 <!--#set var="special_events[email]" value="none" -->
 <!--#set var="special_events" value="${special_events[name]} (${special_events[email]})" -->
 
@@ -90,7 +90,7 @@
 <!<!--#set var="asst_web[email]" value="none" -->
 <!<!--#set var="asst_web" value="${asst_web[name]} (${asst_web[email]})" -->
 
-<!--#set var="publicity[name]" value="Tiffany Yang" -->
+<!--#set var="publicity[name]" value="Jierui Fang" -->
 <!--#set var="publicity[email]" value="none" -->
 <!--#set var="publicity" value="${publicity[name]} (${publicity[email]})" -->
 
@@ -102,6 +102,6 @@
 <!--#set var="rentals[email]" value="none" -->
 <!--#set var="rentals" value="${rentals[name]} (${rentals[email]})" -->
 
-<!--#set var="at_large[name]" value="Andy Huang, Crystal Chang" -->
+<!--#set var="at_large[name]" value="Andy Huang, Mia LaRocca" -->
 <!--#set var="at_large[email]" value="none" -->
 <!--#set var="at_large" value="${at_large[name]} (${at_large[email]})" -->
