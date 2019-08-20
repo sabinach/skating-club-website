@@ -38,7 +38,7 @@
 <!--#set var="kleenex[email]" value="none" -->
 <!--#set var="kleenex" value="${kleenex[name]} (${kleenex[email]})" -->
 
-<!--#set var="edu_chair[name]" value="Bonny Kellermann, Esther Horwich" -->
+<!--#set var="edu_chair[name]" value="Esther Horwich, Bonny Kellermann" -->
 <!--#set var="edu_chair[email]" value="none" -->
 <!--#set var="edu_chair" value="${edu_chair[name]} (${edu_chair[email]})" -->
 
@@ -54,7 +54,7 @@
 <!<!--#set var="exhib_comm[email]" value="none" -->
 <!<!--#set var="exhib_comm" value="${exhib_comm[name]} (${exhib_comm[email]})" -->
 
-<!--#set var="comp_comm[name]" value="Sarah Don, Susan Scott, Diane Zhou, Juliana Drozd, Flora Su, Andy Huang, Shawn Pan" -->
+<!--#set var="comp_comm[name]" value="Sarah Don, Juliana Drozd, Andy Huang, Bonny Kellermann, Shawn Pan, Susan Scott, Flora Su, Diane Zhou" -->
 <!--#set var="comp_comm[email]" value="none" -->
 <!--#set var="comp_comm" value="${comp_comm[name]} (${comp_comm[email]})" -->
 
@@ -66,7 +66,7 @@
 <!<!--#set var="workshop_coord[email]" value="none" -->
 <!<!--#set var="workshop_coord" value="${workshop_coord[name]} (${workshop_coord[email]})" -->
 
-<!--#set var="special_events[name]" value="Diane Zhou, Crystal Chang" -->
+<!--#set var="special_events[name]" value="Crystal Chang, Diane Zhou" -->
 <!--#set var="special_events[email]" value="none" -->
 <!--#set var="special_events" value="${special_events[name]} (${special_events[email]})" -->
 
@@ -86,7 +86,7 @@
 <!--#set var="webmaster[email]" value="sabinach" -->
 <!--#set var="webmaster" value="${webmaster[name]} (${webmaster[email]})" -->
 
-<!<!--#set var="asst_web[name]" value="Yee Ling Gan, Peitong Duan" -->
+<!<!--#set var="asst_web[name]" value="Peitong Duan, Yee Ling Gan" -->
 <!<!--#set var="asst_web[email]" value="none" -->
 <!<!--#set var="asst_web" value="${asst_web[name]} (${asst_web[email]})" -->
 
@@ -98,7 +98,7 @@
 <!--#set var="librarian[email]" value="none" -->
 <!--#set var="librarian" value="${librarian[name]}" -->
 
-<!--#set var="rentals[name]" value="Noa Rensing, Mickey Barry" -->
+<!--#set var="rentals[name]" value="Mickey Barry, Noa Rensing" -->
 <!--#set var="rentals[email]" value="none" -->
 <!--#set var="rentals" value="${rentals[name]} (${rentals[email]})" -->
 
