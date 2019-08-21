@@ -54,7 +54,7 @@
 <!<!--#set var="exhib_comm[email]" value="none" -->
 <!<!--#set var="exhib_comm" value="${exhib_comm[name]} (${exhib_comm[email]})" -->
 
-<!--#set var="comp_comm[name]" value="Sarah Don, Juliana Drozd, Andy Huang, Bonny Kellermann, Shawn Pan, Susan Scott, Flora Su, Diane Zhou" -->
+<!--#set var="comp_comm[name]" value="Sarah Don, Juliana Drozd, Andy Huang, Bonny Kellermann, Shawn Pan, Maya Sankar, Susan Scott, Flora Su, Diane Zhou" -->
 <!--#set var="comp_comm[email]" value="none" -->
 <!--#set var="comp_comm" value="${comp_comm[name]} (${comp_comm[email]})" -->
 
