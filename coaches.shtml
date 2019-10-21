@@ -11,11 +11,6 @@
         <td width="25%"><b><u>Field of Instruction</u></b></td>
 	<td width="10%"><b><u>Rates</u></b></td>
 </tr>
-<tr><td>Laura Gayton</td>
-    <td>laura.gayton@hotmail.com<br/>(508) 333-3225</td>
-    <td>Ice Dancing, Stroking Choreography, Moves in the Field</td>
-    <td>$90/hr</td>
-</tr>
 <tr><td>Elin Schran</td>
     <td>elinschran@gmail.com<br/>(617) 407-4805</td>
     <td>Jumps, Spins, Choreography, Movement, Moves in the Field</td>
@@ -33,12 +28,12 @@
 </tr>
 <tr><td>Stephen Murray</td>
     <td>sjmurray@bu.edu</td>
-    <td>Ice Dancing, Moves in the Field, Freestyle</td>
+    <td>Ice Dancing</td>
     <td>$40/hr</td>
 </tr>
 <tr><td>Juliana Drozd</td>
     <td>jdrozd@mit.edu<br/>(571) 919-5387</td>
-    <td>Ice Dancing, Freestyle through single jumps</td>
+    <td>Ice Dancing</td>
     <td>$25/hr</td>
 </tr>
 </table>
@@ -54,5 +49,13 @@
 <li>Coaches should use this <a href="docs/Instructor_payment_form.doc">instructor payment form</a> to submit checks</li>
 </ul>
 <div id="secondary"></div>
+
+<!--
+<tr><td>Laura Gayton</td>
+    <td>laura.gayton@hotmail.com<br/>(508) 333-3225</td>
+    <td>Ice Dancing, Stroking Choreography, Moves in the Field</td>
+    <td>$90/hr</td>
+</tr>
+-->
 
 <!--#include file="footer.shtml" -->
