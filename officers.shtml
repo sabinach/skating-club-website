@@ -6,25 +6,28 @@
 <h1>Current Officers</h1>
 
 <dl class="bold-terms">
+	<u>Exec</u><br>
 	<dt>President:</dt><dd><!--#echo var="president[name]" --></dd>
 	<dt>Vice President:</dt><dd><!--#echo var="vice_pres[name]" --></dd>
-	
 	<dt>Treasurer:</dt><dd><!--#echo var="treasurer[name]" --></dd>
-	<!--<dt>Treasurer Emeritus:</dt><dd><!--#echo var="emer_treas[name]" --></dd>-->
-	<dt>Associate Treasurer:</dt><dd><!--#echo var="asst_treas[name]" --></dd> 
 	<dt>Member Secretary:</dt><dd><!--#echo var="memb_sec[name]" --></dd>
 	<dt>Meeting Minutes Secretary:</dt><dd><!--#echo var="secretary[name]" --></dd>
+	<br>
 
+	<u>Group Captains</u><br>
 	<dt>Intercollegiate Team Captain:</dt><dd><!--#echo var="college_team[name]" --></dd>
 	<dt>Exhibition Group Numbers Captain:</dt><dd><!--#echo var="exhib_group[name]" --></dd>
 	<dt>Adult Team Captain:</dt><dd><!--#echo var="adult_team[name]" --></dd>
+	<br>
 
+	<u>Events Coordinators</u><br>
 	<dt>Exhibition Chair:</dt><dd><!--#echo var="exhib_chair[name]" --></dd>
 	<dt>Competition Committee:</dt><dd><!--#echo var="comp_comm[name]" --></dd>
 	<dt>Test Chair:</dt><dd><!--#echo var="test_chair[name]" --></dd>
-	<dt>Workshop Coordinator:</dt><dd><!--#echo var="workshop_coord[name]" --></dd>
-	<dt>Special Events Chair:</dt><dd><!--#echo var="special_events[name]" --></dd>
-	
+	<dt>Events Coordinator:</dt><dd><!--#echo var="special_events[name]" --></dd>
+	<br>
+
+	<u>Logistics Coordinators</u><br>
 	<dt>Education Chair:</dt><dd><!--#echo var="edu_chair[name]" --></dd>
 	<dt>Publicity:</dt><dd><!--#echo var="publicity[name]" --></dd>
 	<dt>Webmaster:</dt><dd><!--#echo var="webmaster[name]" --></dd>
@@ -33,12 +36,11 @@
 	<dt>Boutique Chair:</dt><dd><!--#echo var="boutique[name]" --></dd>
 	<dt>Kleenex Chair:</dt><dd><!--#echo var="kleenex[name]" --></dd>
 
-	<dt>Officers-At-Large:</dt><dd><!--#echo var="at_large[name]" --></dd>
-	
+	<!--<dt>Associate Treasurer:</dt><dd><!--#echo var="asst_treas[name]" --></dd>-->
+	<!--<dt>Officers-At-Large:</dt><dd><!--#echo var="at_large[name]" --></dd>-->
 	<!--<dt>Exhibition Committee:</dt><dd><!--#echo var="exhib_comm[name]" --></dd>--> 
 	<!--<dt>Theater On Ice Captain:</dt><dd><!--#echo var="toi[name]" --></dd>-->
 	<!--<dt>Test Committee:</dt><dd><!--#echo var="test_comm[name]" --></dd>-->
-	<!--<dt>Assistant Webmaster:</dt><dd><!--#echo var="asst_web[name]" --></dd>-->
 </script>
 </dl>
 
