@@ -1,7 +1,7 @@
 </div>
 
 <div id="bottom" class="block">
-		Maintained by <!--#echo var="webmaster" --> ; Last Updated June 02, 2020
+		Maintained by <!--#echo var="webmaster" --> ; Last Updated January 12, 2021
 
 		<!--if (document.getElementById("sideMenu").offsetHeight > document.getElementById("main").offsetHeight) {
 			bot.style.position = 'relative';
