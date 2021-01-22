@@ -1,1 +1,1 @@
-# skating-club-www
+# skating-club-website
